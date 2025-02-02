@@ -5,7 +5,7 @@ import urandom as random
 from ucollections import namedtuple
 import ure as re
 import ustruct as struct
-import ussl
+import ssl
 
 # Opcodes
 OP_CONT = const(0x0)
